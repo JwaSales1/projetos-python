@@ -1,2 +1,2 @@
-# projetos-python
-Meus projetos em Python
+# Estudos-Pithon
+Meus estudos em Python
